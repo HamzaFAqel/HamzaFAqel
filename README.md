@@ -32,3 +32,10 @@ I'm  a full-stack developer adept with front-end and back-end development proces
 ## 🤙 Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaaqel/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+
+##
+📈 **My GitHub Stats:**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaFAqel&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaFAqel&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
